@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <card></card>
-    <card>Kuy Card</card>
+    <card>Tong Card</card>
     <card>
       <button>Test Button</button>
     </card>
